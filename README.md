@@ -28,3 +28,9 @@ April Fools' Logic (April 1st)
 Input: n = 15
 
 Output: ["1", "2", "AprilFizz", "4", "AprilBuzz", "AprilFizz", "7", "8", "AprilFizz", "AprilBuzz", "11", "AprilFizz", "31", "41", "AprilFizzBuzz"]
+
+## Future requirements
+
+- Create a web service that can return the output in json format
+
+- The web service must respect the april 1st rules
